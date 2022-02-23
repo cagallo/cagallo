@@ -11,7 +11,7 @@ Welcome to my GitHub! I am a UCLA alumna and currently studying FE Web Developme
 [![Chez's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagallo&show_icons=true&theme=tokyonight)](https://github.com/cagallo/github-readme-stats)
 
 
-## Languages and Frameworks
+## Technologies Useds
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
