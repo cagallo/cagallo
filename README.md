@@ -1,6 +1,6 @@
 # ✨✨ Chez Gallo ✨✨
 
-Welcome to my GitHub! I am a UCLA alumna, graduate of the FE Web Development Program at the Turing School of Software and Design and am current a Full Stack Software Engineer at Coupa Software. Feel free to check out some of my most recent code by clicking [here](https://github.com/cagallo?tab=repositories). Thanks for visiting!
+Welcome to my GitHub! I am a UCLA alumna, graduate of the FE Web Development Program at the Turing School of Software and Design and currently a Full Stack Software Engineer at Coupa Software. Feel free to check out some of my most recent code by clicking [here](https://github.com/cagallo?tab=repositories). Thanks for visiting!
 
 <img width="1147" alt="Screen Shot 2022-03-25 at 5 57 40 PM" src="https://user-images.githubusercontent.com/78453792/160215873-a43aae9f-4898-469d-a087-cba881ba630a.png">
 
