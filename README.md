@@ -8,9 +8,6 @@ Welcome to my GitHub! I am a UCLA alumna, graduate of the FE Web Development Pro
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chez-gallo-501bb421b)
 
-[![Chez's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagallo&show_icons=true&theme=tokyonight)](https://github.com/cagallo/github-readme-stats)
-
-
 ## Technologies Useds
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
